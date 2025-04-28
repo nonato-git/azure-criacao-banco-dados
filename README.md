@@ -34,7 +34,6 @@ Este repositório foi criado como parte do desafio da DIO para praticar a criaç
 
 ## 🖼️ Capturas de Tela
 
-Exemplo da criação de uma instância de banco de dados no portal do Azure:
 
 ![Criação da Instância de Banco de Dados](./images/Imagem-banco-azure.png)
 
