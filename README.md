@@ -1,5 +1,6 @@
 # azure-criacao-banco-dados
 Projeto para criação de instância de Banco de Dados no Azure - DIO
+
 # Criação de Instância de Banco de Dados no Microsoft Azure
 
 Este repositório foi criado como parte do desafio da DIO para praticar a criação e configuração de uma instância de Banco de Dados gerenciado na plataforma Microsoft Azure.
@@ -31,11 +32,6 @@ Este repositório foi criado como parte do desafio da DIO para praticar a criaç
 - **Segurança:** Sempre configure IPs permitidos no firewall do servidor.
 - **Backups:** O Azure cria backups automáticos, mas é bom validar a configuração.
 - **Custo:** Atenção ao plano escolhido para evitar cobranças inesperadas.
-
-## 🖼️ Capturas de Tela
-
-
-![Criação da Instância de Banco de Dados](./images/Imagem-banco-azure.png)
 
 ## 📚 Referências
 
